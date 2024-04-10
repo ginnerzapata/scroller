@@ -1,0 +1,16 @@
+{
+  "name": "ginner-scroller",
+  "version": "ease-to-use scrolling library",
+  "description": "src/index.js",
+  "main": "index.js",
+  "license": "MIT",
+  "peerDependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "esbuild": "^0.20.2",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
